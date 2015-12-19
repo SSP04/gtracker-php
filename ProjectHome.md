@@ -1,0 +1,1 @@
+This project provides some little scripts to retrieve data of your gameserver using gametracker.com data feeds.
